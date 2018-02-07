@@ -1,0 +1,10 @@
+james1-KnS, a9c94a33562fe9e6c61481c18afaca2e6638ca21
+linda1-KnS, d96e47de240c87d2db1e0d3e7ee5424e25c2958d
+sofia1-KnS, 238843db19885dfdbe0c92e748fb03089d58cedb
+santiago1-KnS, 7005cffd2aeadf698270a88c5c35da1a283bcbcf
+isabella1-KnS, 69e7f306df0444c36486c48d95c63de18d2818b6
+diego1-KnS, b3810b9d7b32d044cf58fdcabfd3518c6d30f6df
+robert1-KnS, fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f
+mary1-KnS, 5a194fea3ef2d3e9f4c39cb1fb218ac2f1917ba7
+patricia1-KnS, ee23a97041447f21ba33af8c40728a54710256e9
+daniela1-KnS, b0e2e534d52fa4e850f0c7f4c8c3e1a6e159b71e
